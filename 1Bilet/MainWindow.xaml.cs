@@ -15,7 +15,7 @@ namespace _1Bilet
         /// <summary>
         ///  Класс Program
         ///  основной класс программы
-        ///  выводящий текст "Hello, World!"
+        ///  выводящий текст "Hello, World!" 
         /// </summary>
 
         Префекс 0x ??
